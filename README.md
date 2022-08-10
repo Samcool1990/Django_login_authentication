@@ -1,2 +1,0 @@
-# Django_login_authentication
-Django Authentication website
